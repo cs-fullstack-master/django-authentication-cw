@@ -1,0 +1,5 @@
+.idea/
+FoodProject/FoodProject/__init__.py
+FoodProject/FoodProject/__pycache__/
+FoodProject/FoodApp/__pycache__/
+FoodProject/FoodApp/__init__.py
